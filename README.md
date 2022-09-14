@@ -1,2 +1,3 @@
-# 100_days_of_code
-A documentation of my coding progress
+## 100_days_of_code
+# Day 0: September 14, 2022
+Today's progress: 
